@@ -1,0 +1,14 @@
+{
+  "name": "obol-api-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:postman": "newman run postman/tests/obol-api-tech-test.postman_collection.json -e postman/envs/prod.postman_environment.json"
+  },
+  "author": "Pavel Nicovala",
+  "license": "ISC",
+  "devDependencies": {
+    "newman": "^6.1.2"
+  }
+}
