@@ -11,7 +11,7 @@
 
 ## Usage
 
-# Postman
+### Postman
 
 _In root dir_
 
@@ -26,7 +26,7 @@ _Run_
 npm run test:postman
 ```
 
-# Godog
+### Godog
 
 _In godog dir_
 
@@ -41,7 +41,7 @@ _Run_
 go test
 ```
 
-# k6
+### k6
 
 _In root dir_
 
